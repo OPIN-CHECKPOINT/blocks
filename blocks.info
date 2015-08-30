@@ -9,4 +9,9 @@ dependencies[] = common
 
 ; Contributed Modules
 dependencies[] = bean
+dependencies[] = bean_admin_ui
+dependencies[] = bean
+dependencies[] = bean
+
 dependencies[] = menu_block
+dependencies[] = menu_block_export
